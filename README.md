@@ -1,7 +1,6 @@
 ## Hi there, I'm Martyna 👋
 
-👩🏻‍💻 Currently learning to start the career in tech</br>
-👩🏻‍🎓 Double degree student of Computer Science and Governance at the Warsaw University of Technology</br>
+👩🏻‍🎓 Double degree student of Computer Science at the Warsaw University of Technology</br>
 ➕ And Governance at the Warsaw School of Economics</br>
 🚀 In the process of learning C++ and good code-writing practices</br>
 
