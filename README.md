@@ -1,5 +1,5 @@
 ## Hi, I'm Martyna 🧚‍♀️
-### CS Student @ PW MiNI | SGH Graduate | Systems & Infrastructure Enthusiast
+### CS Student @ PW MiNI | SGH Graduate | Systems & Infrastructure Explorer
 
 👩🏻‍💻 **Computer Science & Information Systems student** at Warsaw University of Technology (MiNI) \
 🎓 **Global Business graduate** from SGH Warsaw School of Economics \
@@ -9,7 +9,7 @@
 
 ### Most Used Languages 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martbudr&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martbudr&layout=compact&theme=dark)
 
 ### Tech Stack
 
@@ -24,6 +24,7 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Connect with me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/martyna-budrewicz/)
